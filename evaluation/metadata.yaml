@@ -1,0 +1,1 @@
+command: python3 run_segandcvqa_scoring.py /app/input/ref/masks_refs /app/input/res/masks_preds /app/input/ref/data_cvqa_ref.json /app/input/res/data_cvqa_sys.json /app/output/ sys
